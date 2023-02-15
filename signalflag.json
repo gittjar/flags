@@ -24,7 +24,7 @@
     "alphabethSve":"Cesar",
     "NatoAnsi":"Charlie",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/e/e7/ICS_Charlie.svg",
-    "information":"Kyllä." 
+    "information":"Kyllä. (Liput N ja C yhdessä = Ei ja Kyllä on hätämerkki)." 
   },
   {
     "id":104,
@@ -80,7 +80,7 @@
     "picture":"https://upload.wikimedia.org/wikipedia/commons/8/8e/ICS_India.svg",
     "information":"Muutan suuntaani vasemmalle." 
   },
-    {
+  {
     "id":110,
     "alphabeth":"J",
     "alphabethFin":"Jussi",
@@ -88,6 +88,42 @@
     "NatoAnsi":"Juliett (Juliet)",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/2/2e/ICS_Juliett.svg",
     "information":"Pysytelkää etäällä: aluksella on tulipalo." 
+  },
+  {
+    "id":111,
+    "alphabeth":"K",
+    "alphabethFin":"Kalle",
+    "alphabethSve":"Kalle",
+    "NatoAnsi":"Kilo",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/a/a8/ICS_Kilo.svg",
+    "information":"Haluan yhteyden teihin." 
+  },
+  {
+    "id":112,
+    "alphabeth":"L",
+    "alphabethFin":"Lauri",
+    "alphabethSve":"Ludvig",
+    "NatoAnsi":"Lima",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/7/76/ICS_Lima.svg",
+    "information":"Avomerellä: Pysähtykää välittömästi. Satamassa: Laiva on karanteenissa." 
+  },
+  {
+    "id":113,
+    "alphabeth":"M",
+    "alphabethFin":"Matti",
+    "alphabethSve":"Martin",
+    "NatoAnsi":"Mike",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/7/73/ICS_Mike.svg",
+    "information":"Alukseni on pysäytetty eikä se liiku veden halki." 
+  },
+  {
+    "id":114,
+    "alphabeth":"N",
+    "alphabethFin":"Niilo",
+    "alphabethSve":"Niklas",
+    "NatoAnsi":"November",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/2/21/ICS_November.svg",
+    "information":"Ei. (Liput N ja C yhdessä = Ei ja Kyllä on hätämerkki)." 
   }
 
   
