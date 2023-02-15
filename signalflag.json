@@ -34,6 +34,24 @@
     "NatoAnsi":"Delta",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/e/eb/ICS_Delta.svg",
     "information":"Pysykää loitolla; minulla on ohjailuvaikeuksia" 
+  },
+   {
+    "id":105,
+    "alphabeth":"E",
+    "alphabethFin":"Eemeli",
+    "alphabethSve":"Erik",
+    "NatoAnsi":"Echo",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/0/0b/ICS_Echo.svg",
+    "information":"Muutan suuntaani oikealle" 
+  },
+     {
+    "id":106,
+    "alphabeth":"F",
+    "alphabethFin":"Faarao",
+    "alphabethSve":"Filip",
+    "NatoAnsi":"Foxrot",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/a/a8/ICS_Foxtrot.svg",
+    "information":"Olen vaurioitunut. Pyydän ottamaan yhteyttä minuun." 
   }
 
   
