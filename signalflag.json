@@ -1,0 +1,24 @@
+[
+  {
+    "id":101;,
+    "alphabeth":"A",
+    "alphabethFin":"Aarne",
+    "alphabethSve":"Adam",
+    "NatoAnsi":"Alfa (Alpha)",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/8/85/ICS_Alfa.svg",
+    "information":"Sukeltaja vedessä, pysykää loitolla ja hidastakaa vauhtia (Lipun sijasta voidaan käyttää myös kiinteää taulua)"  
+  },
+  {
+    "id":102;,
+    "alphabeth":"B",
+    "alphabethFin":"Bertta",
+    "alphabethSve":"Bertil",
+    "NatoAnsi":"Bravo",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/f/f7/ICS_Bravo.svg",
+    "information":"Lastaan, puran tai kuljetan vaarallisia aineita (Purjehduskilpailuissa protestin merkki)" 
+  }
+
+  
+  
+  
+]
