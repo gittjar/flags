@@ -6,7 +6,7 @@
     "alphabethSve":"Adam",
     "NatoAnsi":"Alfa (Alpha)",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/8/85/ICS_Alfa.svg",
-    "information":"Sukeltaja vedessä, pysykää loitolla ja hidastakaa vauhtia (Lipun sijasta voidaan käyttää myös kiinteää taulua)"  
+    "information":"Sukeltaja vedessä, pysykää loitolla ja hidastakaa vauhtia (Lipun sijasta voidaan käyttää myös kiinteää taulua)."  
   },
   {
     "id":102,
@@ -15,36 +15,36 @@
     "alphabethSve":"Bertil",
     "NatoAnsi":"Bravo",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/f/f7/ICS_Bravo.svg",
-    "information":"Lastaan, puran tai kuljetan vaarallisia aineita (Purjehduskilpailuissa protestin merkki)" 
+    "information":"Lastaan, puran tai kuljetan vaarallisia aineita (Purjehduskilpailuissa protestin merkki)." 
   },
-    {
+  {
     "id":103,
     "alphabeth":"C",
     "alphabethFin":"Celsius",
     "alphabethSve":"Cesar",
     "NatoAnsi":"Charlie",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/e/e7/ICS_Charlie.svg",
-    "information":"Kyllä" 
+    "information":"Kyllä." 
   },
-   {
+  {
     "id":104,
     "alphabeth":"D",
     "alphabethFin":"Daavid",
     "alphabethSve":"David",
     "NatoAnsi":"Delta",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/e/eb/ICS_Delta.svg",
-    "information":"Pysykää loitolla; minulla on ohjailuvaikeuksia" 
+    "information":"Pysykää loitolla; minulla on ohjailuvaikeuksia." 
   },
-   {
+  {
     "id":105,
     "alphabeth":"E",
     "alphabethFin":"Eemeli",
     "alphabethSve":"Erik",
     "NatoAnsi":"Echo",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/0/0b/ICS_Echo.svg",
-    "information":"Muutan suuntaani oikealle" 
+    "information":"Muutan suuntaani oikealle." 
   },
-     {
+  {
     "id":106,
     "alphabeth":"F",
     "alphabethFin":"Faarao",
@@ -52,6 +52,42 @@
     "NatoAnsi":"Foxrot",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/a/a8/ICS_Foxtrot.svg",
     "information":"Olen vaurioitunut. Pyydän ottamaan yhteyttä minuun." 
+  },
+  {
+    "id":107,
+    "alphabeth":"G",
+    "alphabethFin":"Gideon",
+    "alphabethSve":"Gustav",
+    "NatoAnsi":"Golf",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/f/fb/ICS_Golf.svg",
+    "information":"Tarvitsen luotsin. (Kalastusaluksella: Hinaan nuottaa)." 
+  },
+  {
+    "id":108,
+    "alphabeth":"H",
+    "alphabethFin":"Heikki",
+    "alphabethSve":"Helge",
+    "NatoAnsi":"Hotel",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/0/0f/ICS_Hotel.svg",
+    "information":"Aluksella on luotsi." 
+  },
+  {
+    "id":109,
+    "alphabeth":"I",
+    "alphabethFin":"Iivari",
+    "alphabethSve":"Ivar",
+    "NatoAnsi":"India",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/8/8e/ICS_India.svg",
+    "information":"Muutan suuntaani vasemmalle." 
+  },
+    {
+    "id":110,
+    "alphabeth":"J",
+    "alphabethFin":"Jussi",
+    "alphabethSve":"Johan",
+    "NatoAnsi":"Juliett (Juliet)",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/2/2e/ICS_Juliett.svg",
+    "information":"Pysytelkää etäällä: aluksella on tulipalo." 
   }
 
   
