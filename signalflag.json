@@ -25,6 +25,15 @@
     "NatoAnsi":"Charlie",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/e/e7/ICS_Charlie.svg",
     "information":"Kyllä" 
+  },
+   {
+    "id":104,
+    "alphabeth":"D",
+    "alphabethFin":"Daavid",
+    "alphabethSve":"David",
+    "NatoAnsi":"Delta",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/e/eb/ICS_Delta.svg",
+    "information":"Pysykää loitolla; minulla on ohjailuvaikeuksia" 
   }
 
   
