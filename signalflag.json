@@ -105,7 +105,7 @@
     "alphabethSve":"Ludvig",
     "NatoAnsi":"Lima",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/7/76/ICS_Lima.svg",
-    "information":"Avomerellä: Pysähtykää välittömästi. Satamassa: Laiva on karanteenissa." 
+    "information":"Avomerellä: Pysähtykää välittömästi, minulla tärkeää asiaa. Satamassa: Laiva on karanteenissa." 
   },
   {
     "id":113,
@@ -124,7 +124,71 @@
     "NatoAnsi":"November",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/2/21/ICS_November.svg",
     "information":"Ei. (Liput N ja C yhdessä = Ei ja Kyllä on hätämerkki)." 
+  },
+  {
+    "id":115,
+    "alphabeth":"O",
+    "alphabethFin":"Otto",
+    "alphabethSve":"Olof",
+    "NatoAnsi":"Oscar",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/c/c9/ICS_Oscar.svg",
+    "information":"Mies yli laidan." 
+  },
+  {
+    "id":116,
+    "alphabeth":"P",
+    "alphabethFin":"Paavo",
+    "alphabethSve":"Petter",
+    "NatoAnsi":"Papa",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/d/d0/ICS_Papa.svg",
+    "information":"Blue Peter. Satamassa: alus lähdössä, kaikki alukselle. Merellä: pyydykseni ovat tarttuneet esteeseen." 
+  },
+  {
+    "id":117,
+    "alphabeth":"Q",
+    "alphabethFin":"kuu",
+    "alphabethSve":"Qvintus",
+    "NatoAnsi":"Quebec",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/d/d4/ICS_Quebec.svg",
+    "information":"Pyydetään tullausta ja maahantulotarkastusta (aiemmin: aluksella ei ruttoa)." 
+  },
+  {
+    "id":118,
+    "alphabeth":"R",
+    "alphabethFin":"Risto",
+    "alphabethSve":"Rudolf",
+    "NatoAnsi":"Romeo",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/b/bf/ICS_Romeo.svg",
+    "information":"Sain viestisi." 
+  },
+  {
+    "id":119,
+    "alphabeth":"S",
+    "alphabethFin":"Sakari",
+    "alphabethSve":"Sigurd",
+    "NatoAnsi":"Sierra",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/3/36/ICS_Sierra.svg",
+    "information":"Käytän potkurivoimaani taaksepäin." 
+  },
+  {
+    "id":120,
+    "alphabeth":"T",
+    "alphabethFin":"Tyyne",
+    "alphabethSve":"Tore",
+    "NatoAnsi":"Tango",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/1/1e/ICS_Tango.svg",
+    "information":"Pysykää loitolla / älkää tulko kohti, suoritan paritroolausta." 
+  },
+   {
+    "id":121,
+    "alphabeth":"T",
+    "alphabethFin":"Urho",
+    "alphabethSve":"Urban",
+    "NatoAnsi":"Uniform",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/e/e2/ICS_Uniform.svg",
+    "information":"Olette menossa kohti vaaraa." 
   }
+  
 
   
   
