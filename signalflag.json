@@ -187,10 +187,50 @@
     "NatoAnsi":"Uniform",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/e/e2/ICS_Uniform.svg",
     "information":"Olette menossa kohti vaaraa." 
+  },
+  {
+    "id":122,
+    "alphabeth":"V",
+    "alphabethFin":"Vihtori",
+    "alphabethSve":"Viktor",
+    "NatoAnsi":"Victor",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/e/ef/ICS_Victor.svg",
+    "information":"Tarvitsen apua." 
+  },
+   {
+    "id":123,
+    "alphabeth":"W",
+    "alphabethFin":"wiski",
+    "alphabethSve":"Wilhelm",
+    "NatoAnsi":"Whiskey",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/8/88/ICS_Whiskey.svg",
+    "information":"Tarvitsen lääkäriä." 
+  },
+  {
+    "id":124,
+    "alphabeth":"X",
+    "alphabethFin":"äksä",
+    "alphabethSve":"Xerxes",
+    "NatoAnsi":"X-ray",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/b/ba/ICS_X-ray.svg",
+    "information":"Keskeyttäkää toimenne ja seuratkaa viestejäni." 
+  },
+  {
+    "id":125,
+    "alphabeth":"Y",
+    "alphabethFin":"Yrjö",
+    "alphabethSve":"Yngve",
+    "NatoAnsi":"Yankee",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/2/23/ICS_Yankee.svg",
+    "information":"Ankkurini ei pidä." 
+  },
+  {
+    "id":126,
+    "alphabeth":"Z",
+    "alphabethFin":"tseta",
+    "alphabethSve":"zäta",
+    "NatoAnsi":"Zulu",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/c/c6/ICS_Zulu.svg",
+    "information":"Tarvitsen hinaajan." 
   }
-  
-
-  
-  
-  
 ]
