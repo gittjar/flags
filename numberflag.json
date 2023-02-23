@@ -64,6 +64,29 @@
     "flagnumber":1,
     "information":"Korvausviiri",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/6/61/ICS_Repeat_One.svg"       
+  },
+  {   
+    "id":112,
+    "flagnumber":2,
+    "information":"Korvausviiri",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/0/08/ICS_Repeat_Two.svg"       
+  },
+  {   
+    "id":113,
+    "flagnumber":3,
+    "information":"Korvausviiri",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/7/74/ICS_Repeat_Three.svg"       
+  },
+  {   
+    "id":114,
+    "flagnumber":4,
+    "information":"Korvausviiri",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/b/bd/ICS_Repeat_Four.svg"       
+  },
+    {   
+    "id":115,
+    "information":"Vastausviiri",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/5/5c/ICS_Answer.svg"       
   }
   
   
