@@ -61,8 +61,8 @@
   },
    {   
     "id":111,
-    "flagnumber":null,
-    "information":"1. Korvausviiri",
+    "flagnumber":1,
+    "information":"Korvausviiri",
     "picture":"https://upload.wikimedia.org/wikipedia/commons/6/61/ICS_Repeat_One.svg"       
   }
   
