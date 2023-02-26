@@ -7,8 +7,18 @@
     "varit":"Harmaa, vihreä ja punainen",
     "valmistunut":1906,
     "koordinaatit":"59° 43′ 24″ P, 22° 29′ 57″ I",
-    "kuvaus":"LOREM LOREM ipsum"
+    "kuvaus":"" 
+  },
+    {
+    "ID":102,
+    "name":"Bogskär",
+    "sijainti":"Bogskär, Kökar",
+    "korkeus":null,
+    "varit":"Sininen ja valkoinen",
+    "valmistunut":1880,
+    "koordinaatit":"59° 30′ 18″ P, 20° 20′ 54″ I",
+    "kuvaus":"" 
+  },
   
-  }
   
   ]
