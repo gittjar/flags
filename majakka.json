@@ -13,7 +13,7 @@
     "ID":102,
     "name":"Bogskär",
     "sijainti":"Bogskär, Kökar",
-    "korkeus":0,
+    "korkeus":null,
     "varit":"Sininen ja valkoinen",
     "valmistunut":1880,
     "koordinaatit":"59° 30′ 18″ P, 20° 20′ 54″ I",
