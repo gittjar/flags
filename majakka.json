@@ -18,7 +18,16 @@
     "valmistunut":1880,
     "koordinaatit":"https://goo.gl/maps/cNg84UiGK4jF6w2r5",
     "kuvaus":"" 
+  },
+      {
+    "ID":103,
+    "name":"Flötjan",
+    "sijainti":"Ahvenmeri, Ahvenanmaa",
+    "korkeus":22,
+    "varit":"Punainen ja valkoinen",
+    "valmistunut":1953,
+    "koordinaatit":"https://goo.gl/maps/oeE2pgFtGKa3R6f28",
+    "kuvaus":"" 
   }
-  
   
   ]
