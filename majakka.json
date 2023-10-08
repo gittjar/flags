@@ -9,7 +9,7 @@
     "koordinaatit":"https://goo.gl/maps/aUT33Qzkpy9iLPZv9",
     "kuvaus":"" 
   },
-    {
+  {
     "ID":102,
     "name":"Bogskär",
     "sijainti":"Bogskär, Kökar",
@@ -19,7 +19,7 @@
     "koordinaatit":"https://goo.gl/maps/cNg84UiGK4jF6w2r5",
     "kuvaus":"" 
   },
-      {
+  {
     "ID":103,
     "name":"Flötjan",
     "sijainti":"Ahvenanmeri, Ahvenanmaa",
@@ -28,6 +28,15 @@
     "valmistunut":1953,
     "koordinaatit":"https://goo.gl/maps/oeE2pgFtGKa3R6f28",
     "kuvaus":"" 
+  },
+  {
+    "ID":104,
+    "name":"Glosholmin majakka",
+    "sijainti":"Porvoo",
+    "korkeus":23,
+    "varit":"",
+    "valmistunut":1835,
+    "koordinaatit":"60° 11′ 11″ P, 25° 50′ 09″ I",
+    "kuvaus":"" 
   }
-  
-  ]
+]
