@@ -39,84 +39,15 @@
     "koordinaatit":"60° 11′ 11″ P, 25° 50′ 09″ I",
     "kuvaus":"" 
   },
-  {
-    "ID": 105,
-    "name": "Blekungen",
-    "sijainti": "Kustavi",
-    "korkeus": 5,
-    "varit": "Puukummeli",
-    "valmistunut": 1857,
-    "koordinaatit": "https://www.luontoon.fi/retkikohteet/blekungen-ja-flatun-majakat",
-    "kuvaus": "Muodostaa parin Flatun tunnusmajakan kanssa."
+    {
+    "ID":105,
+    "name":"Gustaf Dalén",
+    "sijainti":"Sottunga",
+    "korkeus":null,
+    "varit":"Punainen",
+    "valmistunut":1947,
+    "koordinaatit":"60°05′06″N, 20°58′59″E",
+    "kuvaus":"Suomen ensimmäinen kiinteä pohjamajakka." 
   },
-  {
-    "ID": 106,
-    "name": "Bogskär",
-    "sijainti": "Bogskär, Kökar",
-    "korkeus": 31.5,
-    "varit": "Sininen ja valkoinen",
-    "valmistunut": 1880,
-    "koordinaatit": "https://www.luontoon.fi/retkikohteet/bogskarin-majakka",
-    "kuvaus": "Valkoinen majakka, jossa on sininen raita."
-  },
-  {
-    "ID": 107,
-    "name": "Bredskär",
-    "sijainti": "Mustasaari",
-    "korkeus": 16.8,
-    "varit": "Lautavuorattu hirsipyramidi",
-    "valmistunut": 1857,
-    "koordinaatit": "https://www.luontoon.fi/retkikohteet/bredskarin-majakka",
-    "kuvaus": ""
-  },
-  {
-    "ID": 108,
-    "name": "Flatu",
-    "sijainti": "Kustavi",
-    "korkeus": 5,
-    "varit": "Puukummeli",
-    "valmistunut": 1857,
-    "koordinaatit": "https://www.luontoon.fi/retkikohteet/blekungen-ja-flatun-majakat",
-    "kuvaus": "Muodostaa parin Blekungenin tunnusmajakan kanssa."
-  },
-  {
-    "ID": 109,
-    "name": "Fästorna",
-    "sijainti": "Kökar",
-    "korkeus": 16,
-    "varit": "",
-    "valmistunut": 1856,
-    "koordinaatit": "https://www.luontoon.fi/retkikohteet/fastornan-majakka",
-    "kuvaus": ""
-  },
-  {
-    "ID": 110,
-    "name": "Glosholm",
-    "sijainti": "Porvoo",
-    "korkeus": 23,
-    "varit": "",
-    "valmistunut": 1835,
-    "koordinaatit": "60° 11′ 11″ P, 25° 50′ 09″ I",
-    "kuvaus": "Suomen vanhin valomajakka, joka on nykyään yksityisomistuksessa."
-  },
-  {
-    "ID": 111,
-    "name": "Haapasaari",
-    "sijainti": "Kotka",
-    "korkeus": 26,
-    "varit": "Harmaagraniitista muurattu alaosa, yläosa betonia",
-    "valmistunut": 1862,
-    "koordinaatit": "https://www.luontoon.fi/retkikohteet/haapasaaren-majakka",
-    "kuvaus": "Nykyisin merivartiotornina."
-  },
-  {
-    "ID": 112,
-    "name": "Hiidenniemi",
-    "sijainti": "Hailuoto",
-    "korkeus": null,
-    "varit": "Kuusikulmainen keilamainen puutorni",
-    "valmistunut": 1859,
-    "koordinaatit": "https://www.luontoon.fi/retkikohteet/hiidenniemen-majakka",
-    "kuvaus":""
-  }
+  
 ]
