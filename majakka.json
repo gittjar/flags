@@ -41,7 +41,7 @@
   },
   {
     "ID": 105,
-    "nimi": "Blekungen",
+    "name": "Blekungen",
     "sijainti": "Kustavi",
     "korkeus": 5,
     "varit": "Puukummeli",
@@ -51,7 +51,7 @@
   },
   {
     "ID": 106,
-    "nimi": "Bogskär",
+    "name": "Bogskär",
     "sijainti": "Bogskär, Kökar",
     "korkeus": 31.5,
     "varit": "Sininen ja valkoinen",
@@ -61,7 +61,7 @@
   },
   {
     "ID": 107,
-    "nimi": "Bredskär",
+    "name": "Bredskär",
     "sijainti": "Mustasaari",
     "korkeus": 16.8,
     "varit": "Lautavuorattu hirsipyramidi",
@@ -71,7 +71,7 @@
   },
   {
     "ID": 108,
-    "nimi": "Flatu",
+    "name": "Flatu",
     "sijainti": "Kustavi",
     "korkeus": 5,
     "varit": "Puukummeli",
@@ -81,7 +81,7 @@
   },
   {
     "ID": 109,
-    "nimi": "Fästorna",
+    "name": "Fästorna",
     "sijainti": "Kökar",
     "korkeus": 16,
     "varit": "",
@@ -91,7 +91,7 @@
   },
   {
     "ID": 110,
-    "nimi": "Glosholm",
+    "name": "Glosholm",
     "sijainti": "Porvoo",
     "korkeus": 23,
     "varit": "",
@@ -101,7 +101,7 @@
   },
   {
     "ID": 111,
-    "nimi": "Haapasaari",
+    "name": "Haapasaari",
     "sijainti": "Kotka",
     "korkeus": 26,
     "varit": "Harmaagraniitista muurattu alaosa, yläosa betonia",
@@ -111,7 +111,7 @@
   },
   {
     "ID": 112,
-    "nimi": "Hiidenniemi",
+    "name": "Hiidenniemi",
     "sijainti": "Hailuoto",
     "korkeus": null,
     "varit": "Kuusikulmainen keilamainen puutorni",
