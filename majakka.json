@@ -114,7 +114,7 @@
     "ID": 112,
     "nimi": "Hiidenniemi",
     "sijainti": "Hailuoto",
-    "korkeus": ?,
+    "korkeus": null,
     "varit": "Kuusikulmainen keilamainen puutorni",
     "valmistunut": 1859,
     "koordinaatit": "https://www.luontoon.fi/retkikohteet/hiidenniemen-majakka",
